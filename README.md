@@ -3,6 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timsu27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Tim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timsu27)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **timsu27/timsu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
