@@ -1,8 +1,9 @@
 ![python](https://img.shields.io/badge/-Python-555555?style=flat&logo=Python)
 ![jupyter](https://img.shields.io/badge/-Jupyter-555555?style=flat&logo=Jupyter)
-![k8s](https://img.shields.io/badge/-K8s-555555?style=flat&logo=Kubernetes)
+![k8s](https://img.shields.io/badge/-Kubernetes-555555?style=flat&logo=Kubernetes)
 ![helm](https://img.shields.io/badge/-Helm-555555?style=flat&logo=Helm)
 ![ethereum](https://img.shields.io/badge/-Ethereum-555555?style=flat&logo=Ethereum)
+![solidity](https://img.shields.io/badge/-Solidity-555555?style=flat&logo=Solidity)
 ![bash](https://img.shields.io/badge/-Bash-555555?style=flat&logo=GNU-Bash)
 
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timsu27&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
