@@ -1,4 +1,3 @@
-### Hi there 👋
 ![python](https://img.shields.io/badge/-Python-555555?style=flat&logo=Python)
 ![jupyter](https://img.shields.io/badge/-Jupyter-555555?style=flat&logo=Jupyter)
 ![k8s](https://img.shields.io/badge/-K8s-555555?style=flat&logo=Kubernetes)
